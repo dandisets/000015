@@ -68,7 +68,8 @@ identifier: DANDI:000015
 keywords: []
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000015/versions/draft/assets/
 name: A Map of Anticipatory Activity in Mouse Motor Cortex
 protocol: []
 relatedResource:
