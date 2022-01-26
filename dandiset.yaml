@@ -33,7 +33,8 @@ assetsSummary:
   - BehavioralEvents
   - PlaneSegmentation
 citation: Chen, Tsai-Wen; Li, Nuo; Daie, Kayvon; Svoboda, Karel (2022) A Map of Anticipatory
-  Activity in Mouse Motor Cortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000015/draft
+  Activity in Mouse Motor Cortex (Version 0.220126.1914) [Data set]. DANDI archive.
+  https://doi.org/10.48324/dandi.000015/0.220126.1914
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -62,18 +63,32 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2020-03-19T17:22:51.212000+00:00'
+datePublished: '2022-01-26T19:14:08.608649+00:00'
 description: Data from "A Map of Anticipatory Activity in Mouse Motor Cortex" Chen
   et al. Neuron 2017
+doi: 10.48324/dandi.000015/0.220126.1914
 ethicsApproval: []
-id: DANDI:000015/draft
+id: DANDI:000015/0.220126.1914
 identifier: DANDI:000015
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000015/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000015/0.220126.1914/assets.yaml
 name: A Map of Anticipatory Activity in Mouse Motor Cortex
 protocol: []
+publishedBy:
+  endDate: '2022-01-26T19:14:08.608649+00:00'
+  id: urn:uuid:0e5e837c-2076-46e7-b6b0-650eda1ba8b8
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-01-26T19:14:08.608649+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:694143ca-ea0e-4412-8993-e36a8ef10f37
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: DOI:10.1016/j.neuron.2017.05.005
   name: A Map of Anticipatory Activity in Mouse Motor Cortex
@@ -84,6 +99,6 @@ repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000015/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000015/0.220126.1914
+version: 0.220126.1914
 wasGeneratedBy: []
