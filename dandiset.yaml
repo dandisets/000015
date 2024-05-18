@@ -32,7 +32,7 @@ assetsSummary:
   variableMeasured:
   - BehavioralEvents
   - PlaneSegmentation
-citation: Chen, Tsai-Wen; Li, Nuo; Daie, Kayvon; Svoboda, Karel (2022) A Map of Anticipatory
+citation: Chen, Tsai-Wen; Li, Nuo; Daie, Kayvon; Svoboda, Karel (2024) A Map of Anticipatory
   Activity in Mouse Motor Cortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000015/draft
 contributor:
 - affiliation: []
@@ -78,9 +78,11 @@ relatedResource:
 - identifier: DOI:10.1016/j.neuron.2017.05.005
   name: A Map of Anticipatory Activity in Mouse Motor Cortex
   relation: dcite:IsDescribedBy
+  repository: Neuron
+  resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://doi.org/10.1016/j.neuron.2017.05.005
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
