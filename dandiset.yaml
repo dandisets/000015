@@ -76,6 +76,7 @@ contributor:
   - identifier: https://ror.org/013sk6x84
     name: Janelia Research Campus
     schemaKey: Affiliation
+  email: svobodak@janelia.hhmi.org
   identifier: 0000-0002-6670-7362
   includeInCitation: true
   name: Svoboda, Karel
